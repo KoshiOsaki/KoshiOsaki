@@ -1,6 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoshiOsaki
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoshiOsaki&kayout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoshiOsaki&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoshiOsaki&theme=tokyonight&show_icons=ture" />
+</p>
 <!--
 **KoshiOsaki/KoshiOsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
